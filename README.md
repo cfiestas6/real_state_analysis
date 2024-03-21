@@ -1,15 +1,15 @@
-## Análisis de viviendas vendidas en Málaga
+## Real State Data Analysis
 
-Crear entorno virtual:
+Create virtual env:
 ```
 virtualenv .venv
 ```
-Activar entorno virtual:
+Activate virual env:
 ```
 source .venv/bin/activate
 ```
 
-Instalar paquetes necesarios:
+Install packages:
 ```
 pip install requirements.txt
 ```
