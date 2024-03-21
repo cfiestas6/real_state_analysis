@@ -1,5 +1,9 @@
 ## Análisis de viviendas vendidas en Málaga
 
+Crear entorno virtual:
+```
+virtualenv .venv
+```
 Activar entorno virtual:
 ```
 source .venv/bin/activate
